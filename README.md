@@ -22,6 +22,8 @@ y: y position on the base plane
 
 ![Lamp blueprint](lamp.JPG "lamp")
 
+> `image.rotation.z = Math.PI/2;`
+
 ## Note
 
 You should select z-axis as camera up vector. In other case rotation axes will not correspond to the provided ones.
