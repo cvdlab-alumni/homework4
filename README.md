@@ -5,7 +5,7 @@
 
 ## Subject
 
-Produce a lamp model according to given specifications and following degrees of freedom:
+Produce a lamp model according to given specifications and following degrees of freedom (to be added to dat.GUI widget):
 
 ```
 Note: camera up vector on z axis.
