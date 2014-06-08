@@ -22,7 +22,7 @@ y: y position on the base plane
 
 ![Lamp blueprint](lamp.JPG "lamp")
 
-> `image.rotation.z = Math.PI/2;`
+> `image.rotation.z = Math.PI;`
 
 ## Note
 
